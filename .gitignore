@@ -1,0 +1,6 @@
+# Persönliche Einstellungen und Sicherungen nie hochladen
+.claude/settings.local.json
+zentrale-sicherung-*.json
+Thumbs.db
+desktop.ini
+.DS_Store
